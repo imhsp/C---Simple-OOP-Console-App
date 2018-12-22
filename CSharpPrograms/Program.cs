@@ -1,4 +1,4 @@
-﻿/*using System;
+using System;
 
 namespace CSharpPrograms
 {
@@ -54,4 +54,4 @@ namespace CSharpPrograms
             return Convert.ToDouble(Console.ReadLine());
         }
     }
-}*/
+}
